@@ -2,7 +2,7 @@
 
 ## What is it?
 &nbsp;&nbsp;&nbsp;VPeN is a semi-hardware VPN solution.
-#### Short description
+
 #### High-level Structure
 ```
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
