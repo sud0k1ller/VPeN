@@ -1,8 +1,8 @@
-# <sub>VP<sup>e</sup>N</sub>
-#### Semi-hardware VNP solution.
+# <sub>V&#8473;<sup>e</sup>&#8469;</sub>
+### Semi-hardware VPN solution.
 
-##### What is it?
+#### What is it?
 
-##### Installation Process
+#### Installation Process
 
-##### Errors & Issues
+#### Errors & Issues
