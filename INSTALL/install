@@ -1,0 +1,6 @@
+#!/bin/bash
+## It is an installation file for VPeN
+## Read INSTALLATION_README before proceeding
+
+echo "I am not ready yet";
+return 0;
