@@ -27,7 +27,10 @@
 &nbsp;&nbsp;&nbsp;None
 
 ## Requirements
-
+#### Software requirements
+&nbsp;&nbsp;&nbsp;None
+#### Hardware requirements
+&nbsp;&nbsp;&nbsp;- 10 MB USB drive wiil do
 ## Installation Process
 
 ## Errors & Issues
