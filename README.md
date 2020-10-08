@@ -1,10 +1,9 @@
 # <sub>V&#8473;<sup>e</sup>&#8469;</sub>
-### Semi-hardware VPN solution.
 
-#### What is it?
-
-##### Short description
-##### High-level Structure
+### What is it?
+&nbsp;&nbsp;&nbsp;VPeN is a semi-hardware VPN solution.
+### Short description
+### High-level Structure
 ```
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@ Encrypted @@@@@@@@@@@@@@@@ VPeN @@@@@@@@@@@@@@ Unencrypted @@@@@@@@@@@@@@@
@@ -22,13 +21,13 @@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 ```
-##### Compatible systems
-  None
-##### Compatible VPN providers
-  None
+### Compatible systems
+&nbsp;&nbsp;&nbsp;None
+### Compatible VPN providers
+&nbsp;&nbsp;&nbsp;None
 
-#### Requirements
+## Requirements
 
-#### Installation Process
+## Installation Process
 
-#### Errors & Issues
+## Errors & Issues
